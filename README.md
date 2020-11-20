@@ -16,9 +16,18 @@ Fibres are visualised as tori in order to be visible, the cross-sectional diamet
 
 ## Example renders
 
-![Hopf fibration example 1](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_1.JPG?raw=true)
-![Hopf fibration example 2](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_3.JPG?raw=true)
-![Hopf fibration example 3](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_4.JPG?raw=true)
+![Hopf fibration: 6 nested tori](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_1.JPG?raw=true)
+**Figure 1** 100 equally spaced azimuths at 8 equally spaced elevations resulting in 6 nested tori, and the two edge cases.
+
+![Hopf fibration: section](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_3.JPG?raw=true)
+**Figure 2** As in Figure 1 but only half the fibres are rendered showing a cross section.
+
+![Hopf fibration: 25 fibres at e = pi/2](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_elevation_0_5pi.JPG?raw=true)
+
+**Figure 3** 25 fibres all at &epsilon; = &pi;/2. Two fibres are shown in pink to highlight how the fibres link but do not intersect. Edge cases also shown in blue and red.
+
+![Hopf fibration: colour trial](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_4.JPG?raw=true)
+**Figure 4** An earlier colouring scheme, I have still not finalised this, there is a lot to play around with.
 
 ## Directions
 
