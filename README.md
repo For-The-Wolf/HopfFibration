@@ -17,10 +17,10 @@ Fibres are visualised as tori in order to be visible, the cross-sectional diamet
 ## Example renders
 
 ![Hopf fibration: 6 nested tori](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_1.JPG?raw=true)
-**Figure 1** 100 equally spaced azimuths at 8 equally spaced elevations resulting in 6 nested tori, and the two edge cases.
+**Figure 1** Fibres at 100 equally spaced azimuths and 8 equally spaced elevations. This results in 6 nested tori and the two edge cases.
 
 ![Hopf fibration: section](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_3.JPG?raw=true)
-**Figure 2** As in Figure 1 but only half the fibres are rendered showing a cross section.
+**Figure 2** As in Figure 1 but fewer fibres are rendered showing a cross-section.
 
 ![Hopf fibration: 25 fibres at e = pi/2](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_elevation_0_5pi.JPG?raw=true)
 
