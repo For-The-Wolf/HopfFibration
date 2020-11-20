@@ -20,5 +20,5 @@ This will run an example visualisation which generates fibres constructing six t
 ![Hopf fibration visualisation in blender](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_SS.JPG?raw=true)
 
 ## To do
-- [] Improve the automatic colouring of fibres
-- [] Add functionality for easy animation creation 
+- [ ] Improve the automatic colouring of fibres
+- [ ] Add functionality for easy animation creation 
