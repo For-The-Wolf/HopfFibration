@@ -5,9 +5,9 @@ https://www.blender.org/download/
 
 ## Description
 ### Overview of the Hopf Fibration
-The Hopf Fibration is the fibre bundle created by projecting the four-dimenstional sphere **S3** onto the three-dimentional sphere **S2**, every point on **S2** has a corresponding fibre in three-dimensional space **R3** which is a perfect two-dimensional sphere (or circle) **S1** . This structure is written as **S1 -> S3 -> S2**, which can be read as; "The fibre space **S1** is embedded in the full-space **S3** which is projected to the base-space **S2** . 
+The Hopf Fibration is the fibre bundle created by projecting the four-dimenstional sphere **S3** onto the three-dimentional sphere **S2**, every point on **S2** has a corresponding fibre in three-dimensional space **R3** which is a perfect two-dimensional sphere (or circle) **S1** . This structure is written as **S1 -> S3 -> S2**, which can be read as; "The fibre-space **S1** is embedded in the full-space **S3** which is projected to the base-space **S2**". 
 
-This fibre bundle is space-filling in **R3**, every fibre links with every other fibre and no two fibres ever intersect. Lines of constant elevation (&epsilon;) on **S2** are seen as tori in the fibre space, lines of constant azimuth (&alpha;) appear has Hopf bands. There are two edge cases at the poles of **S2** (&alpha; = {0,&pi;}); at the south pole (&alpha; = 0) the fibres converge to a circle lying flat in the X-Y plane, at the north pole (&alpha; = &pi;) the fibre is a circle through infinity (here visualised as the straight line lying on the Z-axis).
+This fibre bundle is space-filling in **R3**, every fibre links with every other fibre and no two fibres ever intersect. Lines of constant elevation (&epsilon;) on **S2** are seen as tori in the fibre-space, lines of constant azimuth (&alpha;) appear has Hopf bands. There are two edge cases at the poles of **S2** (&alpha; = {0,&pi;}); at the south pole (&alpha; = 0) the fibres converge to a circle lying flat in the X-Y plane, at the north pole (&alpha; = &pi;) the fibre is a circle through infinity (here visualised as the straight line lying on the Z-axis).
 
 ### This project
 The file *fibration.py* is a visualisation tool which uses the Python Blender API. 
