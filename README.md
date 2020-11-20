@@ -22,7 +22,7 @@ Fibres are visualised as tori in order to be visible, the cross-sectional diamet
 
 ## Directions
 
-Simply make a new Blender file or download the provided example(*fibration.blend*), create a Text Editor pane, open the *fibration.py* file and use the keyboard shortcut `Alt+P` to run the script. 
+Simply make a new Blender file or download the provided example(*fibration.blend*), create a Text Editor pane, open the *fibration.py* file and use the keyboard shortcut `Alt`+`P` to run the script. 
 This will run an example visualisation which generates fibres constructing six tori and the two edge cases at &epsilon; = {0,pi/2} (a flat cricle and a circle through infinity respectively).
 
 ![Hopf fibration visualisation in blender](https://github.com/For-The-Wolf/HopfFibration/blob/main/Example%20Renders/hopf_fibration_SS.JPG?raw=true)
