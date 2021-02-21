@@ -69,8 +69,7 @@ def makeFibre(ele, azi,sectionRad = 0.02,fibreName = 'Fibre'):
         fibre.data.materials.append(new_mat)
     ops.object.select_all(action='DESELECT')
 
-if __name__ == '__main__':
-    
+def main():
     deleteAll()
     context.scene.cursor.location = (0.0, 0.0, 0.0)
     
@@ -85,3 +84,9 @@ if __name__ == '__main__':
             makeFibre(ele,azi,fibreName = 'Fibre_{}_{}'.format(ele,azi))
     makeFibre(0,0,fibreName = 'Fibre_0_0')
     makeFibre(pi,0,fibreName='Fibre_{}_0'.format(pi))
+
+
+if __name__ == '__main__':
+    main()
+    
+    
